@@ -1,3 +1,9 @@
+*/
+Color y forma en processing
+Benjamín R. Moreno O.
+UGTO
+/*
+
 // establece el tamaño de mi sketch
 size(400,400);
 //establece el color del fondo
