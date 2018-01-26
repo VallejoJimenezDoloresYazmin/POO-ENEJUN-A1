@@ -1,3 +1,9 @@
+/*
+for loops anidados en Processing
+Benjamín R. Moreno O.
+UGTO
+*/
+
 int x,y,w,h,c,p;
 size(400,400);
 background(255);
