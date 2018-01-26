@@ -18,7 +18,7 @@ stroke(255,255,0);
 //noFill();
 //dibuja un rect en x,y, con w,h
 rect(20,20,20,20);
-//dibuja una elipse con el cenrto en x.y. con w,y
+//dibuja una elipse con el centro en x.y. con w,y
 fill(0,255,0);
 ellipse(60,20,20,20);
 //modifica el ancho de las lineas
