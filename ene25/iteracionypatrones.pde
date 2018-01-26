@@ -8,6 +8,8 @@ int x,y,w,h,c,p;
 size(400,400);
 background(255);
 noStroke();
+
+//genera una matriz de cuadros en colores aleatorios
 for (int i = 0; i<20; i++){
   for (int j= 0; j<20; j++){
     fill(random(255),random(255),random(255));
