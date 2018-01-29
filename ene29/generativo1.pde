@@ -1,3 +1,9 @@
+/*
+ejemplos dibujo procedimental y saveFrame();
+Benjamín R. Moreno O.
+UGTO
+*/
+
 size(800,600);
 background(0,20,40);
 for (int i = 200; i<600; i++){
@@ -12,3 +18,4 @@ for (int i = 200; i<600; i++){
   vertex(i+random(40), 300+random(-10,10));
   endShape();
 }
+saveFrame();
